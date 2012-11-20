@@ -1,1 +1,0 @@
-jQuery(document).ready(function(e){var t=function(){e("#readme").tooltip({placement:"top"})};t()});

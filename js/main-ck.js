@@ -1,1 +1,0 @@
-jQuery(document).ready(function(e){var t=function(){e(".copyright").tooltip({placement:"top"}),e("img.p1,img.p2").tooltip({placement:"bottom"}),e("img").tooltip({placement:"top"})};t(),e(".code").hover(function(){e(this).find("input").select()})});
